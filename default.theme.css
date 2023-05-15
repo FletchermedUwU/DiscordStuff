@@ -15,8 +15,8 @@
 @import url('https://raw.githubusercontent.com/FletchermedUwU/DiscordStuff/main/theme.css');
 
 :root {
-  --accentcolor: 87,100,241;
-  --accentcolor2: 243,126,254;
+  --accentcolor: 85,98,239;
+  --accentcolor2: 241,124,252;
   --linkcolor: 0,176,244;
   --mentioncolor: 250,166,26;
   --textbrightest: 255,255,255;
@@ -26,12 +26,12 @@
   --textdarker: 115,115,115;
   --textdarkest: 80,80,80;
   --font: gg sans;
-  --backgroundaccent: 55,57,63;
-  --backgroundprimary: 48,50,55;
-  --backgroundsecondary: 42,44,48;
-  --backgroundsecondaryalt: 34,35,39;
-  --backgroundtertiary: 29,30,33;
-  --backgroundfloating: 16,17,19;
+  --backgroundaccent: 53,55,61;
+  --backgroundprimary: 46,48,53;
+  --backgroundsecondary: 40,42,46;
+  --backgroundsecondaryalt: 32,33,37;
+  --backgroundtertiary: 27,28,31;
+  --backgroundfloating: 14,15,17;
 }
 
 /* Any custom CSS below here */
